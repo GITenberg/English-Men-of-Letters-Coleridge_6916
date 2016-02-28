@@ -1,0 +1,26 @@
+_repo: English-Men-of-Letters-Coleridge_6916
+creator:
+  author:
+    agent_name: Traill, H. D. (Henry Duff)
+    alias: Traill, Henry Duff
+    birthdate: 1842
+    deathdate: 1900
+    gutenberg_agent_id: '2254'
+    url: http://www.gutenberg.org/2009/agents/2254
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Duff_Traill
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Critics -- Great Britain -- Biography'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834'
+- !lcc 'PR'
+title: 'English Men of Letters: Coleridge'
+url: http://www.gutenberg.org/ebooks/6916
