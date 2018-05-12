@@ -1,4 +1,8 @@
 _repo: English-Men-of-Letters-Coleridge_6916
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Traill, H. D. (Henry Duff)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2254
     wikipedia: http://en.wikipedia.org/wiki/Henry_Duff_Traill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6916#English-Men-of-Letters-Coleridge
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
